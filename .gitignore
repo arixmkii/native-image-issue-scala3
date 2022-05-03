@@ -1,2 +1,6 @@
 *.class
 *.log
+target/
+failed-native/target/
+project/target/
+project/project/
